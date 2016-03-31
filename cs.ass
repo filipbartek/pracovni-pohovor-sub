@@ -23,7 +23,7 @@ Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:04.90,Default,,0,0,0,,Pracovní pohovor\Nfilmový dialog
+Comment: 0,0:00:00.00,0:00:04.00,Default,,0,0,0,,Pracovní pohovor\Nfilmový dialog
 Dialogue: 0,0:00:10.98,0:00:11.94,Default,Soňa,0,0,0,,Á, dobrý den!
 Dialogue: 0,0:00:11.94,0:00:12.68,Default,Lenka,0,0,0,,Dobrý den.
 Dialogue: 0,0:00:12.68,0:00:13.62,Default,Soňa,0,0,0,,Posaďte se u nás.
@@ -118,5 +118,6 @@ Dialogue: 0,0:04:29.30,0:04:32.24,Default,Soňa,0,0,0,,No dobře, tak v tom př�
 Dialogue: 0,0:04:32.90,0:04:33.32,Default,Soňa,0,0,0,,U vás?
 Dialogue: 0,0:04:34.60,0:04:34.72,Default,Lenka,0,0,0,,Jo.
 Dialogue: 0,0:04:34.88,0:04:36.14,Default,Soňa,0,0,0,,No tak se pudem podívat na plac.
-Comment: 0,0:04:39.90,0:04:44.90,Default,,0,0,0,,Film vytvořili:\NTomáš Vymazal\NFilip Bártek\NHudba:\NSilence: Particule\Nstaženo z Jamendo.com
-Comment: 0,0:04:44.98,0:04:48.84,Default,,0,0,0,,Dílo vzniklo v rámci předmětu\NPV110 na Fakultě informatiky\NMasarykovy univerzity se\Nzapůjčením techniky z\NLaboratoře elektronických a\Nmultimediálních aplikací.\NCC-BY-SA 3.0
+Comment: 0,0:04:39.90,0:04:41.90,Default,,0,0,0,,Film vytvořili:\NTomáš Vymazal\NFilip Bártek
+Comment: 0,0:04:41.90,0:04:43.90,Default,,0,0,0,,Hudba:\NSilence: Particule\Nstaženo z Jamendo.com
+Comment: 0,0:04:44.90,0:04:48.84,Default,,0,0,0,,Dílo vzniklo v rámci předmětu\NPV110 na Fakultě informatiky\NMasarykovy univerzity se\Nzapůjčením techniky z\NLaboratoře elektronických a\Nmultimediálních aplikací.\NCC-BY-SA 3.0
