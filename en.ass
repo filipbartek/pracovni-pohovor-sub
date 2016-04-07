@@ -33,7 +33,7 @@ Dialogue: 0,0:00:16.46,0:00:17.00,Default,Soňa,0,0,0,,Nice to meet you.
 Dialogue: 0,0:00:18.38,0:00:20.58,Default,Soňa,0,0,0,,You look nervous. Would you like a drink?
 Dialogue: 0,0:00:21.44,0:00:21.78,Default,Lenka,0,0,0,,Yes.
 Dialogue: 0,0:00:22.54,0:00:23.06,Default,Soňa,0,0,0,,Rum?
-Dialogue: 0,0:00:23.90,0:00:24.58,Default,Lenka,0,0,0,,Can be.
+Dialogue: 0,0:00:23.90,0:00:24.58,Default,Lenka,0,0,0,,Okay.
 Dialogue: 0,0:00:24.58,0:00:26.64,Default,Soňa,0,0,0,,Bring me two rums, please. Thank you.
 Dialogue: 0,0:00:28.24,0:00:32.98,Default,Soňa,0,0,0,,So, I'd like to ask you, what brings you here to our casting?
 Dialogue: 0,0:00:35.04,0:00:37.52,Default,Lenka,0,0,0,,Well, mainly financial situation.
@@ -90,7 +90,7 @@ Dialogue: 0,0:03:09.98,0:03:10.54,Default,Lenka,0,0,0,,It hurt.
 Dialogue: 0,0:03:11.16,0:03:13.42,Default,Soňa,0,0,0,,It hurt, mhm, alright.
 Dialogue: 0,0:03:14.46,0:03:18.80,Default,Soňa,0,0,0,,So, I have filled in all the boxes here and I need to know when you can start.
 Dialogue: 0,0:03:21.40,0:03:22.68,Default,Lenka,0,0,0,,Anytime it's necessary.
-Dialogue: 0,0:03:23.54,0:03:26.60,Default,Lenka,0,0,0,,I don't have a job, the holidays are ending…
+Dialogue: 0,0:03:23.54,0:03:26.60,Default,Lenka,0,0,0,,I don't have a job, the holidays are nearly over…
 Dialogue: 0,0:03:27.28,0:03:27.66,Default,Soňa,0,0,0,,Mhm.
 Dialogue: 0,0:03:28.08,0:03:30.78,Default,Soňa,0,0,0,,So our first production starts next week
 Dialogue: 0,0:03:31.10,0:03:32.82,Default,Soňa,0,0,0,,and we would arrange that later.
@@ -118,6 +118,6 @@ Dialogue: 0,0:04:29.30,0:04:32.24,Default,Soňa,0,0,0,,Alright, in that case eve
 Dialogue: 0,0:04:32.90,0:04:33.32,Default,Soňa,0,0,0,,And you?
 Dialogue: 0,0:04:34.60,0:04:34.72,Default,Lenka,0,0,0,,Yes.
 Dialogue: 0,0:04:34.88,0:04:36.14,Default,Soňa,0,0,0,,So let's go have look at the scene.
-Dialogue: 0,0:04:39.90,0:04:41.90,Default,,0,0,0,,Film vytvořili:\NTomáš Vymazal\NFilip Bártek
-Dialogue: 0,0:04:41.90,0:04:43.90,Default,,0,0,0,,Hudba:\NSilence: Particule\Nstaženo z Jamendo.com
+Dialogue: 0,0:04:39.90,0:04:41.90,Default,,0,0,0,,Created by:\NTomáš Vymazal\NFilip Bártek
+Dialogue: 0,0:04:41.90,0:04:43.90,Default,,0,0,0,,Music:\NSilence: Particule\Ndownloaded from Jamendo.com
 Dialogue: 0,0:04:44.90,0:04:48.84,Default,,0,0,0,,The work was created in the course\NPV110 at the Faculty of Computer Science\Nof Masaryk University with\Nequipment borrowed from\NLaboratory of electronic and\Nmultimedia applications.\NCC-BY-SA 3.0
